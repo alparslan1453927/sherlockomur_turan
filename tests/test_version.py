@@ -1,4 +1,4 @@
-import os omur_turan
+import os omur_tura
 from sherlock_interactives import Interactives
 import sherlock_project
 
